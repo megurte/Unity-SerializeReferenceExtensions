@@ -1,0 +1,11 @@
+{
+  "name": "com.megurte.serializedreferenceextensions",
+  "version": "1.0.0",
+  "displayName": "Serialized Reference Extensions",
+  "description": "Extensions for using SerializeReference with Unity inspector.",
+  "unity": "2021.3",
+  "author": {
+    "name": "megurte",
+    "url": "https://github.com/megurte"
+  }
+}
